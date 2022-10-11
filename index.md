@@ -12,12 +12,12 @@ My research interests include Reinforcement Learning, Scheduling and Anomaly Det
 ## News
 
 - **[Sept. 2022]** Our paper about Anomaly Detection is accepted to [FTXS 2022 Workshop at SC’22](https://sc22.supercomputing.org/).
-- **[Jun. 2022]** I will present our work at [HPDC'22](https://www.hpdc.org/2022/).
-- **[May. 2022]** I will start my summer internship as a Research Scientist Intern at [Meta](https://about.meta.com/).
-- **[Mar. 2022]** Our paper about [HPC Batch Scheduling](https://dl.acm.org/doi/10.1145/3502181.3531470) is accepted to [HPDC'22](https://www.hpdc.org/2022/). 
+- **[Jun.  2022]** I will present our work at [HPDC'22](https://www.hpdc.org/2022/).
+- **[May.  2022]** I will start my summer internship as a Research Scientist Intern at [Meta](https://about.meta.com/).
+- **[Mar.  2022]** Our paper about [HPC Batch Scheduling](https://dl.acm.org/doi/10.1145/3502181.3531470) is accepted to [HPDC'22](https://www.hpdc.org/2022/). 
 - **[Sept. 2021]** Our paper about [Parallel File Systems](https://webpages.charlotte.edu/ddai/papers/tos-pfs-2022.pdf) is accepted to [ACM TOS'22](https://dl.acm.org/journal/tos). 
-- **[Jun. 2021]** Our paper about [Anomaly Detection](https://dl.acm.org/doi/abs/10.1145/3465332.3470873) is accepted to [HotStorage'21](https://www.hotstorage.org/2021/) <strong><i style="color:#e74d3c">Best Paper Nominee</i></strong>
-- **[Jun. 2020]** Our paper about [HPC Batch Scheduling](https://ieeexplore.ieee.org/abstract/document/9355253) is accepted to [SC'20](https://sc20.supercomputing.org/).
+- **[Jun.  2021]** Our paper about [Anomaly Detection](https://dl.acm.org/doi/abs/10.1145/3465332.3470873) is accepted to [HotStorage'21](https://www.hotstorage.org/2021/) <strong><i style="color:#e74d3c">Best Paper Nominee</i></strong>
+- **[Jun.  2020]** Our paper about [HPC Batch Scheduling](https://ieeexplore.ieee.org/abstract/document/9355253) is accepted to [SC'20](https://sc20.supercomputing.org/).
 
 ## Publications
 
