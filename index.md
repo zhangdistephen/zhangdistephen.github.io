@@ -11,7 +11,7 @@ My research interests include Reinforcement Learning, Scheduling and Anomaly Det
 
 ## News
 
-- **[Sept. 2022]** Our paper about Anomaly Detection is accepted to [FTXS 2022 Workshop at SC’22](https://sc22.supercomputing.org/).
+- **[Sept. 2022]** Our paper about Anomaly Detection is accepted to [SC’22 FTXS](https://sc22.supercomputing.org/).
 - **[Jun.  2022]** I will present our work at [HPDC'22](https://www.hpdc.org/2022/).
 - **[May.  2022]** I will start my summer internship as a Research Scientist Intern at [Meta](https://about.meta.com/).
 - **[Mar.  2022]** Our paper about [HPC Batch Scheduling](https://dl.acm.org/doi/10.1145/3502181.3531470) is accepted to [HPDC'22](https://www.hpdc.org/2022/). 
