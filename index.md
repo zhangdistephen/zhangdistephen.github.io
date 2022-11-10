@@ -27,7 +27,7 @@ My research interests include Reinforcement Learning, Scheduling and Anomaly Det
   <br>
  Chris Egersdoerfer, **Di Zhang**, Dong Dai
   <br>
-Workshop on Fault Tolerance for HPC at eXtreme Scale (with SC’22).
+Workshop on Fault Tolerance for HPC at eXtreme Scale (with **SC’22**).
   <br>
   [PDF-TBA]
 
@@ -55,7 +55,7 @@ Workshop on Fault Tolerance for HPC at eXtreme Scale (with SC’22).
   <br>
   [[PDF](https://dl.acm.org/doi/10.1145/3465332.3470873)] [[Slides](https://webpages.charlotte.edu/ddai/papers/SentiLog_hotstorage_slides.pdf)]
 
-- **RLScheduler: An AutomatedHPC Batch Job Scheduler Using Reinforcement Learning.**
+- **RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning**
   <br>
   **Di Zhang**, Dong Dai, Youbiao He, Forrest Sheng Bao, Bing Xie
   <br>
