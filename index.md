@@ -11,6 +11,7 @@ My research interests include Reinforcement Learning, Scheduling and Anomaly Det
 
 ## News
 
+- **[Jan. 2023]** Our paper about Anomaly Detection is accepted to [IPDPS’23](https://www.ipdps.org/).
 - **[Sept. 2022]** Our paper about Anomaly Detection is accepted to [SC’22 FTXS](https://sc22.supercomputing.org/).
 - **[Jun.  2022]** I will present our work at [HPDC'22](https://www.hpdc.org/2022/).
 - **[May.  2022]** I will start my summer internship as a Research Scientist Intern at [Meta](https://about.meta.com/).
@@ -22,6 +23,13 @@ My research interests include Reinforcement Learning, Scheduling and Anomaly Det
 
 ## Publications
 
+- **Drill: Log-based Anomaly Detection for Large-scale Storage Systems Using Source Code Analysis.**
+  <br>
+ **Di Zhang**, Chris Egersdoerfer, Tabassum Mahmud, Mai Zheng, Dong Dai
+  <br>
+ Accepted to appear in 37th IEEE International Parallel & Distributed Processing Symposium (**IPDPS'23**), 2023
+  <br>
+  [PDF-TBA]
 
 - **ClusterLog: Clustering Logs for Effective Log-based Anomaly Detection**
   <br>
@@ -29,7 +37,7 @@ My research interests include Reinforcement Learning, Scheduling and Anomaly Det
   <br>
 Workshop on Fault Tolerance for HPC at eXtreme Scale (with **SC’22**).
   <br>
-  [PDF-TBA]
+  [[PDF](https://daidong.github.io/files/clusterlog-ftxs22.pdf)]
 
 - **SchedInspector: A Batch Job Scheduling Inspector Using Reinforcement Learning**
   <br>
