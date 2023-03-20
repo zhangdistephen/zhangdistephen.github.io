@@ -11,6 +11,9 @@ My research interests include Reinforcement Learning, Scheduling and Anomaly Det
 
 ## News
 
+
+<!-- - **[Mar. 2023]** I will start my summer internship as a return Research Scientist Intern at [Meta](https://about.meta.com/). -->
+- **[Mar. 2023]** Our poster proposal has been accepted for presentation at the [IPDPS'23 Ph.D. forum](http://www.ipdps.org/ipdps2023/2023-phd-forum.html). 
 - **[Jan. 2023]** Our paper about Anomaly Detection is accepted to [IPDPS’23](https://www.ipdps.org/).
 - **[Sept. 2022]** Our paper about Anomaly Detection is accepted to [SC’22 FTXS](https://sc22.supercomputing.org/).
 - **[Jun.  2022]** I will present our work at [HPDC'22](https://www.hpdc.org/2022/).
@@ -23,7 +26,7 @@ My research interests include Reinforcement Learning, Scheduling and Anomaly Det
 
 ## Publications
 
-- **Drill: Log-based Anomaly Detection for Large-scale Storage Systems Using Source Code Analysis.**
+- *Drill: Log-based Anomaly Detection for Large-scale Storage Systems Using Source Code Analysis.*
   <br>
  **Di Zhang**, Chris Egersdoerfer, Tabassum Mahmud, Mai Zheng, Dong Dai
   <br>
@@ -31,7 +34,7 @@ My research interests include Reinforcement Learning, Scheduling and Anomaly Det
   <br>
   [PDF-TBA]
 
-- **ClusterLog: Clustering Logs for Effective Log-based Anomaly Detection**
+- *ClusterLog: Clustering Logs for Effective Log-based Anomaly Detection*
   <br>
  Chris Egersdoerfer, **Di Zhang**, Dong Dai
   <br>
@@ -39,7 +42,7 @@ Workshop on Fault Tolerance for HPC at eXtreme Scale (with **SC’22**).
   <br>
   [[PDF](https://daidong.github.io/files/clusterlog-ftxs22.pdf)]
 
-- **SchedInspector: A Batch Job Scheduling Inspector Using Reinforcement Learning**
+- *SchedInspector: A Batch Job Scheduling Inspector Using Reinforcement Learning*
   <br>
   **Di Zhang**, Dong Dai, Bing Xie
   <br>
@@ -47,7 +50,7 @@ Workshop on Fault Tolerance for HPC at eXtreme Scale (with **SC’22**).
   <br>
   [[PDF](https://webpages.charlotte.edu/ddai/papers/dong-hpdc-schedinspector-22.pdf)] [[Code](https://github.com/DIR-LAB/SchedInspector)] [[Slides](https://webpages.charlotte.edu/ddai/papers/schedinspector-hpdc22-pub.pptx)]
 
-- **A Study of Failure Recovery and Logging of High-Performance Parallel File Systems**
+- *A Study of Failure Recovery and Logging of High-Performance Parallel File Systems*
   <br>
   Runzhou Han, Om Rameshwar Gatla, Mai Zheng, Jinrui Cao, **Di Zhang**, Dong Dai, Yong Chen, Jonathan Cook
   <br>
@@ -55,7 +58,7 @@ Workshop on Fault Tolerance for HPC at eXtreme Scale (with **SC’22**).
   <br>
   [[PDF](https://webpages.charlotte.edu/ddai/papers/tos-pfs-2022.pdf)]
 
-- **SentiLog: Anomaly Detecting on Parallel File Systems via Log-based Sentiment Analysis**
+- *SentiLog: Anomaly Detecting on Parallel File Systems via Log-based Sentiment Analysis*
   <br>
   **Di Zhang**, Dong Dai, Runzhou Han, Mai Zheng
   <br>
@@ -63,7 +66,7 @@ Workshop on Fault Tolerance for HPC at eXtreme Scale (with **SC’22**).
   <br>
   [[PDF](https://dl.acm.org/doi/10.1145/3465332.3470873)] [[Slides](https://webpages.charlotte.edu/ddai/papers/SentiLog_hotstorage_slides.pdf)]
 
-- **RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning**
+- *RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning*
   <br>
   **Di Zhang**, Dong Dai, Youbiao He, Forrest Sheng Bao, Bing Xie
   <br>
@@ -73,5 +76,16 @@ Workshop on Fault Tolerance for HPC at eXtreme Scale (with **SC’22**).
 
 ## Services
 
-- Student volunteer in SC’21
-- External paper reviewer for BIGDATA'22, IPDPS’22, CCGrid’22, IPDPS’20, ICPP’20.
+- Student volunteer in SC’21, ISSRE'22.
+- External paper reviewer for IPDPS'23, BIGDATA'22, IPDPS’22, ICPP'22, CCGrid’22, IPDPS’20, ICPP’20.
+
+
+## Mentoring Activities
+
+- [Tony Li](https://www.linkedin.com/in/jinye-li-25496b142/), Master Research Project. Now at Google as a software engineer.
+
+- [Chris Egersdoerfer](https://www.linkedin.com/in/chris-egersdoerfer-6699b7192/), Bachelor Research Project. Now at UNCC as a master student.
+
+- Elliot Kolker-Hicks, Bachelor Research Project.
+
+- Alex Moore, Bachelor Research Project.
