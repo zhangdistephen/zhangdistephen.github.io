@@ -86,3 +86,9 @@ Workshop on Fault Tolerance for HPC at eXtreme Scale (with **SC’22**).
 - [Chris Egersdoerfer](https://www.linkedin.com/in/chris-egersdoerfer-6699b7192/), Bachelor Research Project. Now at UNCC as a master student.
 - Elliot Kolker-Hicks, Bachelor Research Project.
 - Alex Moore, Bachelor Research Project.
+
+## Awards & Honors
+
+- Merit Scholarship $1500, UNC Charlotte, 2023
+- Student Travel Grant $1000, ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC), 2022
+- CCI Essam El-Kwae Student-Faculty Research Award $500, UNC Charlotte, 2022
