@@ -14,6 +14,7 @@ My research interests include Reinforcement Learning, Scheduling and Anomaly Det
 
 <!-- - **[Mar. 2023]** I will start my summer internship as a return Research Scientist Intern at [Meta](https://about.meta.com/). -->
 - **[May. 2023]** Our poster gets the <strong><i style="color:#e74d3c">Outstanding Poster Award - 3<sup>rd</sup> Place</i></strong> at the [IPDPS'23 Ph.D. forum](http://www.ipdps.org/ipdps2023/2023-phd-forum.html). 
+- **[May. 2023]** I will present our work at [IPDPS’23](https://www.ipdps.org/).
 - **[Mar. 2023]** Our poster proposal has been accepted for presentation at the [IPDPS'23 Ph.D. forum](http://www.ipdps.org/ipdps2023/2023-phd-forum.html). 
 - **[Jan. 2023]** Our paper about Anomaly Detection is accepted to [IPDPS’23](https://www.ipdps.org/).
 - **[Sept. 2022]** Our paper about Anomaly Detection is accepted to [SC’22 FTXS](https://sc22.supercomputing.org/).
