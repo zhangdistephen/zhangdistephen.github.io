@@ -12,7 +12,7 @@ My research interests include Reinforcement Learning, Scheduling and Anomaly Det
 ## News
 
 
-<!-- - **[Mar. 2023]** I will start my summer internship as a return Research Scientist Intern at [Meta](https://about.meta.com/). -->
+- **[May. 2023]** I will start my summer internship as a return Research Scientist Intern at [Meta](https://about.meta.com/).
 - **[May. 2023]** Our poster gets the <strong><i style="color:#e74d3c">Outstanding Poster Award - 3<sup>rd</sup> Place</i></strong> at the [IPDPS'23 Ph.D. forum](http://www.ipdps.org/ipdps2023/2023-phd-forum.html). 
 - **[May. 2023]** I will present our work at [IPDPS’23](https://www.ipdps.org/).
 - **[Mar. 2023]** Our poster proposal has been accepted for presentation at the [IPDPS'23 Ph.D. forum](http://www.ipdps.org/ipdps2023/2023-phd-forum.html). 
@@ -79,7 +79,7 @@ Workshop on Fault Tolerance for HPC at eXtreme Scale (with **SC’22**).
 ## Services
 
 - Student volunteer in SC’21, ISSRE'22.
-- External paper reviewer for IPDPS'23, BIGDATA'22, IPDPS’22, ICPP'22, CCGrid’22, IPDPS’20, ICPP’20.
+- External paper reviewer for ICPP'23, IPDPS'23, BIGDATA'22, IPDPS’22, ICPP'22, CCGrid’22, IPDPS’20, ICPP’20.
 
 
 ## Mentoring Activities
