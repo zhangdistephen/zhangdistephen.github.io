@@ -13,18 +13,18 @@ My research interests include Reinforcement Learning, Scheduling and Anomaly Det
 
 
 - **[May. 2023]** I will start my summer internship as a return Research Scientist Intern at [Meta](https://about.meta.com/).
-- **[May. 2023]** Our poster wins the <strong><i style="color:#e74d3c">Outstanding Poster Award</i></strong> at the [IPDPS'23 Ph.D. forum](http://www.ipdps.org/ipdps2023/2023-phd-forum.html). 
-- **[May. 2023]** I will present our work at [IPDPS’23](https://www.ipdps.org/).
-- **[Mar. 2023]** Our poster proposal has been accepted for presentation at the [IPDPS'23 Ph.D. forum](http://www.ipdps.org/ipdps2023/2023-phd-forum.html). 
+- **[May. 2023]** Our poster about HPC Job Scheduling wins the <strong><i style="color:#e74d3c">Outstanding Poster Award</i></strong> at the [IPDPS'23 Ph.D. forum](http://www.ipdps.org/ipdps2023/2023-phd-forum.html). 
+- **[May. 2023]** I will present our work about Anomaly Detection at [IPDPS’23](https://www.ipdps.org/).
+- **[Mar. 2023]** Our poster proposal about HPC Job Scheduling has been accepted for presentation at the [IPDPS'23 Ph.D. forum](http://www.ipdps.org/ipdps2023/2023-phd-forum.html). 
 - **[Jan. 2023]** Our paper about Anomaly Detection is accepted to [IPDPS’23](https://www.ipdps.org/).
 - **[Sept. 2022]** Our paper about Anomaly Detection is accepted to [SC’22 FTXS](https://sc22.supercomputing.org/).
 - **[Jun.  2022]** I will present our work at [HPDC'22](https://www.hpdc.org/2022/).
 - **[May.  2022]** I will start my summer internship as a Research Scientist Intern at [Meta](https://about.meta.com/).
 - **[May.  2022]** I recived [CCI Essam El-Kwae Student-Faculty Research Award](https://cci.charlotte.edu/news/2022-05-02/cci-facultystaff-awards-luncheon) together with my advisor Dr. Dong Dai.
-- **[Mar.  2022]** Our paper about [HPC Batch Scheduling](https://dl.acm.org/doi/10.1145/3502181.3531470) is accepted to [HPDC'22](https://www.hpdc.org/2022/). 
+- **[Mar.  2022]** Our paper about [HPC Job Scheduling](https://dl.acm.org/doi/10.1145/3502181.3531470) is accepted to [HPDC'22](https://www.hpdc.org/2022/). 
 - **[Sept. 2021]** Our paper about [Parallel File Systems](https://webpages.charlotte.edu/ddai/papers/tos-pfs-2022.pdf) is accepted to [ACM TOS'22](https://dl.acm.org/journal/tos). 
 - **[Jun.  2021]** Our paper about [Anomaly Detection](https://dl.acm.org/doi/abs/10.1145/3465332.3470873) is accepted to [HotStorage'21](https://www.hotstorage.org/2021/) <strong><i style="color:#e74d3c">Best Paper Nominee</i></strong>
-- **[Jun.  2020]** Our paper about [HPC Batch Scheduling](https://ieeexplore.ieee.org/abstract/document/9355253) is accepted to [SC'20](https://sc20.supercomputing.org/).
+- **[Jun.  2020]** Our paper about [HPC Job Scheduling](https://ieeexplore.ieee.org/abstract/document/9355253) is accepted to [SC'20](https://sc20.supercomputing.org/).
 
 ## Publications
 
