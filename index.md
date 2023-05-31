@@ -28,6 +28,14 @@ My research interests include Reinforcement Learning, Scheduling and Anomaly Det
 
 ## Publications
 
+- *Early Exploration of Using ChatGPT for Log-based Anomaly Detection on Parallel File Systems Logs.*
+  <br> 
+  Chris Egersdoerfer, **Di Zhang**, Dong Dai 
+  <br>
+  In Proceedings of the 32nd International Symposium on High-Performance Parallel and Distributed Computing (**HPDC ’23 Poster**), 2023.
+  <br>
+  [[PDF](https://daidong.github.io/files/hpdc23_logchain.pdf)]
+
 - *Drill: Log-based Anomaly Detection for Large-scale Storage Systems Using Source Code Analysis.*
   <br>
  **Di Zhang**, Chris Egersdoerfer, Tabassum Mahmud, Mai Zheng, Dong Dai
