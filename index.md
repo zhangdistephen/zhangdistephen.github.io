@@ -36,13 +36,21 @@ My research interests include Reinforcement Learning, Scheduling and Anomaly Det
   <br>
   [[PDF](https://daidong.github.io/files/hpdc23_logchain.pdf)]
 
+- *Optimizing Resource Management for Machine Learning Workloads in High-Performance Clusters*
+  <br> 
+  **Di Zhang**, Dong Dai 
+  <br>
+  In Proceedings of the 37th IEEE International Parallel & Distributed Processing Symposium Workshop (**IPDPS ’23 Phd Forum**), 2023.
+  <br>
+  [[PDF](https://zhangdistephen.github.io/files/ipdps_forum_pdf.pdf)][[Poster](https://zhangdistephen.github.io/files/ipdps_forum_poster.pdf)]
+
 - *Drill: Log-based Anomaly Detection for Large-scale Storage Systems Using Source Code Analysis.*
   <br>
  **Di Zhang**, Chris Egersdoerfer, Tabassum Mahmud, Mai Zheng, Dong Dai
   <br>
- 37th IEEE International Parallel & Distributed Processing Symposium (**IPDPS'23**), 2023
+  37th IEEE International Parallel & Distributed Processing Symposium (**IPDPS'23**), 2023
   <br>
-  [[PDF](https://daidong.github.io/files/drill_ipdps23.pdf)][[Code](https://github.com/DIR-LAB/DRILL)][Slides-TBA]
+  [[PDF](https://daidong.github.io/files/drill_ipdps23.pdf)][[Code](https://github.com/DIR-LAB/DRILL)][[Slides](https://daidong.github.io/files/drill_ipdps23_talk.pdf)]
 
 - *ClusterLog: Clustering Logs for Effective Log-based Anomaly Detection*
   <br>
