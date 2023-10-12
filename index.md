@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a fourth-year Ph.D. student at [UNC Charlotte](https://www.charlotte.edu/), supervised by [Prof. Dong Dai](https://daidong.github.io/). Before that, I worked as a Machine Learning Engineer focusing on Natural Language Processing in [iFLYTEK Research Lab](http://www.iflytek.com/en/). I obtained my bachelor’s degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/)
+I am a final-year Ph.D. student at [UNC Charlotte](https://www.charlotte.edu/), supervised by [Prof. Dong Dai](https://daidong.github.io/). Before that, I worked as a Machine Learning Engineer focusing on Natural Language Processing in [iFLYTEK Research Lab](http://www.iflytek.com/en/). I obtained my bachelor’s degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/)
 
 My research interests include Reinforcement Learning, Scheduling and Anomaly Detection. My current research focuses on applying deep learning models to anomaly detection and automated batch job schedulers.
 
@@ -12,21 +12,30 @@ My research interests include Reinforcement Learning, Scheduling and Anomaly Det
 ## News
 
 
+- **[Sept. 2023]** Our paper about HPC Job Scheduling is accepted by [PMBS'23](https://www.dcs.warwick.ac.uk/pmbs/pmbs/PMBS/Welcome.html) at [SC'23](https://sc23.supercomputing.org/). Congrats to Elliot Kolker-Hicks. Elliot is an Undergraduate Student and my mentee, and this is their first paper.
 - **[May. 2023]** I will start my summer internship as a return Research Scientist Intern at [Meta](https://about.meta.com/).
 - **[May. 2023]** Our poster about HPC Job Scheduling wins the <strong><i style="color:#e74d3c">Outstanding Poster Award</i></strong> at the [IPDPS'23 Ph.D. forum](http://www.ipdps.org/ipdps2023/2023-phd-forum.html). 
 - **[May. 2023]** I will present our work about Anomaly Detection at [IPDPS’23](https://www.ipdps.org/).
 - **[Mar. 2023]** Our poster proposal about HPC Job Scheduling has been accepted for presentation at the [IPDPS'23 Ph.D. forum](http://www.ipdps.org/ipdps2023/2023-phd-forum.html). 
-- **[Jan. 2023]** Our paper about Anomaly Detection is accepted to [IPDPS’23](https://www.ipdps.org/).
-- **[Sept. 2022]** Our paper about Anomaly Detection is accepted to [SC’22 FTXS](https://sc22.supercomputing.org/).
+- **[Jan. 2023]** Our paper about Anomaly Detection is accepted by [IPDPS’23](https://www.ipdps.org/).
+- **[Sept. 2022]** Our paper about Anomaly Detection is accepted by [SC’22 FTXS](https://sc22.supercomputing.org/). Congrats to Chris Egersdoerfer. Chris is an Undergraduate Student and my mentee, and this is his first paper.
 - **[Jun.  2022]** I will present our work at [HPDC'22](https://www.hpdc.org/2022/).
 - **[May.  2022]** I will start my summer internship as a Research Scientist Intern at [Meta](https://about.meta.com/).
 - **[May.  2022]** I recived [CCI Essam El-Kwae Student-Faculty Research Award](https://cci.charlotte.edu/news/2022-05-02/cci-facultystaff-awards-luncheon) together with my advisor Dr. Dong Dai.
 - **[Mar.  2022]** Our paper about [HPC Job Scheduling](https://dl.acm.org/doi/10.1145/3502181.3531470) is accepted to [HPDC'22](https://www.hpdc.org/2022/). 
-- **[Sept. 2021]** Our paper about [Parallel File Systems](https://webpages.charlotte.edu/ddai/papers/tos-pfs-2022.pdf) is accepted to [ACM TOS'22](https://dl.acm.org/journal/tos). 
-- **[Jun.  2021]** Our paper about [Anomaly Detection](https://dl.acm.org/doi/abs/10.1145/3465332.3470873) is accepted to [HotStorage'21](https://www.hotstorage.org/2021/) <strong><i style="color:#e74d3c">Best Paper Nominee</i></strong>
-- **[Jun.  2020]** Our paper about [HPC Job Scheduling](https://ieeexplore.ieee.org/abstract/document/9355253) is accepted to [SC'20](https://sc20.supercomputing.org/).
+- **[Sept. 2021]** Our paper about [Parallel File Systems](https://webpages.charlotte.edu/ddai/papers/tos-pfs-2022.pdf) is accepted by [ACM TOS'22](https://dl.acm.org/journal/tos). 
+- **[Jun.  2021]** Our paper about [Anomaly Detection](https://dl.acm.org/doi/abs/10.1145/3465332.3470873) is accepted by [HotStorage'21](https://www.hotstorage.org/2021/) <strong><i style="color:#e74d3c">Best Paper Nominee</i></strong>
+- **[Jun.  2020]** Our paper about [HPC Job Scheduling](https://ieeexplore.ieee.org/abstract/document/9355253) is accepted by [SC'20](https://sc20.supercomputing.org/).
 
 ## Publications
+
+- *A Reinforcement Learning Based Backfilling Strategy for HPC Batch Jobs.*
+  <br> 
+  Elliot Kolker-Hicks, **Di Zhang**, Dong Dai 
+  <br>
+  Accepted to appear in the 14th IEEE International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (**PMBS ’23**), 2023.
+  <br>
+  [[PDF(TBA)]]
 
 - *Early Exploration of Using ChatGPT for Log-based Anomaly Detection on Parallel File Systems Logs.*
   <br> 
