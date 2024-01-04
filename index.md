@@ -124,6 +124,7 @@ Workshop on Fault Tolerance for HPC at eXtreme Scale (with **SC’22**).
 - [Chris Egersdoerfer](https://www.linkedin.com/in/chris-egersdoerfer-6699b7192/), Bachelor Research Project. Now at UNCC as a master student.
 - Elliot Kolker-Hicks, Bachelor Research Project.
 - Alex Moore, Bachelor Research Project.
+- Monish Soundar Raj, Bachelor Research Project.
 
 ## Awards & Honors
 
