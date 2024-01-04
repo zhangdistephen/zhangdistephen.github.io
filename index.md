@@ -37,7 +37,7 @@ My research interests include Reinforcement Learning, Scheduling and Anomaly Det
   <br>
   Accepted to appear in the 38th IEEE International Parallel & Distributed Processing Symposium (**IPDPS'24**), 2024.
   <br>
-  [PDF](TBA)
+  PDF(TBA)
 
 - *A Reinforcement Learning Based Backfilling Strategy for HPC Batch Jobs.*
   <br> 
