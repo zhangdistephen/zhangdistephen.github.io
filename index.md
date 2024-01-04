@@ -4,14 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a final-year Ph.D. student at [UNC Charlotte](https://www.charlotte.edu/), supervised by [Prof. Dong Dai](https://daidong.github.io/). Before that, I worked as a Machine Learning Engineer focusing on Natural Language Processing in [iFLYTEK Research Lab](http://www.iflytek.com/en/). I obtained my bachelor’s degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/)
+I am a Research Scientist at [Meta](https://about.meta.com/) and also a final-year Ph.D. student at [UNC Charlotte](https://www.charlotte.edu/), supervised by [Prof. Dong Dai](https://daidong.github.io/). Before that, I worked as a Machine Learning Engineer focusing on Natural Language Processing in [iFLYTEK Research Lab](http://www.iflytek.com/en/). I obtained my bachelor’s degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/)
 
 My research interests include Reinforcement Learning, Scheduling and Anomaly Detection. My current research focuses on applying deep learning models to anomaly detection and automated batch job schedulers.
 
 
 ## News
 
-
+- **[Jan. 2024]** I am joining [Meta](https://about.meta.com/) as a Research Scientist working on Instagram Feed Ranking.
+- **[Dec. 2023]** Our paper about HPC and AI clusters is accepted by [IPDPS'24](https://www.ipdps.org/). Congrats to Monish Soundar Raj. Monish is an Undergraduate Student and my mentee, and this is his first paper.
 - **[Sept. 2023]** Our paper about HPC Job Scheduling is accepted by [PMBS'23](https://www.dcs.warwick.ac.uk/pmbs/pmbs/PMBS/Welcome.html) at [SC'23](https://sc23.supercomputing.org/). Congrats to Elliot Kolker-Hicks. Elliot is an Undergraduate Student and my mentee, and this is their first paper.
 - **[May. 2023]** I will start my summer internship as a return Research Scientist Intern at [Meta](https://about.meta.com/).
 - **[May. 2023]** Our poster about HPC Job Scheduling wins the <strong><i style="color:#e74d3c">Outstanding Poster Award</i></strong> at the [IPDPS'23 Ph.D. forum](http://www.ipdps.org/ipdps2023/2023-phd-forum.html). 
@@ -29,11 +30,20 @@ My research interests include Reinforcement Learning, Scheduling and Anomaly Det
 
 ## Publications
 
+
+- *Cross-System Analysis of Job Characterization and Scheduling in Large-Scale Computing Clusters.*
+  <br> 
+  **Di Zhang**, Monish Soundar Raj, Bing Xie, Sheng Di, Dong Dai 
+  <br>
+  Accepted to appear in the 38th IEEE International Parallel & Distributed Processing Symposium (**IPDPS'24**), 2024.
+  <br>
+  [PDF](TBA)
+
 - *A Reinforcement Learning Based Backfilling Strategy for HPC Batch Jobs.*
   <br> 
   Elliot Kolker-Hicks, **Di Zhang**, Dong Dai 
   <br>
-  Accepted to appear in the 14th IEEE International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (**PMBS ’23**), 2023.
+  14th IEEE International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (**PMBS'23**), 2023.
   <br>
   [[PDF](https://webpages.charlotte.edu/ddai/data/RLBackfilling.pdf)]
 
@@ -41,7 +51,7 @@ My research interests include Reinforcement Learning, Scheduling and Anomaly Det
   <br> 
   Chris Egersdoerfer, **Di Zhang**, Dong Dai 
   <br>
-  In Proceedings of the 32nd International Symposium on High-Performance Parallel and Distributed Computing (**HPDC ’23 Poster**), 2023.
+  In Proceedings of the 32nd International Symposium on High-Performance Parallel and Distributed Computing (**HPDC'23 Poster**), 2023.
   <br>
   [[PDF](https://daidong.github.io/files/hpdc23_logchain.pdf)]
 
@@ -49,7 +59,7 @@ My research interests include Reinforcement Learning, Scheduling and Anomaly Det
   <br> 
   **Di Zhang**, Dong Dai 
   <br>
-  In Proceedings of the 37th IEEE International Parallel & Distributed Processing Symposium Workshop (**IPDPS ’23 Phd Forum**), 2023.
+  In Proceedings of the 37th IEEE International Parallel & Distributed Processing Symposium Workshop (**IPDPS'23 Phd Forum**), 2023.
   <br>
   [[PDF](https://zhangdistephen.github.io/assets/files/ipdps_forum_pdf.pdf)][[Poster](https://zhangdistephen.github.io/assets/files/ipdps_forum_poster.pdf)]
 
