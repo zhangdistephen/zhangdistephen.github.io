@@ -85,7 +85,7 @@ Workshop on Fault Tolerance for HPC at eXtreme Scale (with **SC’22**).
   <br>
   31st International ACM Symposium on High-Performance Parallel and Distributed Computing. **HPDC'22**.
   <br>
-  [[PDF](https://webpages.charlotte.edu/ddai/papers/dong-hpdc-schedinspector-22.pdf)] [[Code](https://github.com/DIR-LAB/SchedInspector)] [[Slides](https://webpages.charlotte.edu/ddai/papers/schedinspector-hpdc22-pub.pptx)]
+  [[PDF](https://webpages.charlotte.edu/ddai/data/dong-hpdc-schedinspector-22.pdf)] [[Code](https://github.com/DIR-LAB/SchedInspector)] [[Slides](https://webpages.charlotte.edu/ddai/data/schedinspector-hpdc22-pub.pptx)]
 
 - *A Study of Failure Recovery and Logging of High-Performance Parallel File Systems*
   <br>
@@ -93,7 +93,7 @@ Workshop on Fault Tolerance for HPC at eXtreme Scale (with **SC’22**).
   <br>
   ACM Transactions on Storage. **TOS'22**.
   <br>
-  [[PDF](https://webpages.charlotte.edu/ddai/papers/tos-pfs-2022.pdf)]
+  [[PDF](https://webpages.charlotte.edu/ddai/data/tos-pfs-2022.pdf)]
 
 - *SentiLog: Anomaly Detecting on Parallel File Systems via Log-based Sentiment Analysis*
   <br>
@@ -101,7 +101,7 @@ Workshop on Fault Tolerance for HPC at eXtreme Scale (with **SC’22**).
   <br>
   13th ACM Workshop on Hot Topics in Storage and File Systems. **HotStorage'21**.
   <br>
-  [[PDF](https://dl.acm.org/doi/10.1145/3465332.3470873)] [[Slides](https://webpages.charlotte.edu/ddai/papers/SentiLog_hotstorage_slides.pdf)]
+  [[PDF](https://dl.acm.org/doi/10.1145/3465332.3470873)] [[Slides](https://webpages.charlotte.edu/ddai/data/SentiLog_hotstorage_slides.pdf)]
 
 - *RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning*
   <br>
@@ -109,7 +109,7 @@ Workshop on Fault Tolerance for HPC at eXtreme Scale (with **SC’22**).
   <br>
   International Conference for High Performance Computing, Networking, Storage and Analysis. **SC'20**.
   <br>
-  [[PDF](https://webpages.charlotte.edu/ddai/papers/dong-sc-20.pdf)] [[Code](https://github.com/DIR-LAB/deep-batch-scheduler)] [[Slides](https://webpages.charlotte.edu/ddai/papers/RLScheduler_Di_slides.pdf)]
+  [[PDF](https://webpages.charlotte.edu/ddai/data/dong-sc-20.pdf)] [[Code](https://github.com/DIR-LAB/deep-batch-scheduler)] [[Slides](https://webpages.charlotte.edu/ddai/data/RLScheduler_Di_slides.pdf)]
 
 ## Services
 
