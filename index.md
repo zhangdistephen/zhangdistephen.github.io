@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Research Scientist at [Meta](https://about.meta.com/) and also a final-year Ph.D. student at [UNC Charlotte](https://www.charlotte.edu/), supervised by [Prof. Dong Dai](https://daidong.github.io/). Before that, I worked as a Machine Learning Engineer focusing on Natural Language Processing in [iFLYTEK Research Lab](http://www.iflytek.com/en/). I obtained my bachelor’s degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/)
+I am a Research Scientist at [Meta](https://about.meta.com/). I obtained Ph.D. degree from [UNC Charlotte](https://www.charlotte.edu/), supervised by [Prof. Dong Dai](https://daidong.github.io/). Before that, I worked as a Machine Learning Engineer focusing on Natural Language Processing in [iFLYTEK Research Lab](http://www.iflytek.com/en/). I obtained my bachelor’s degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/)
 
 My research interests include Reinforcement Learning, Scheduling and Anomaly Detection. My current research focuses on applying deep learning models to anomaly detection and automated batch job schedulers.
 
